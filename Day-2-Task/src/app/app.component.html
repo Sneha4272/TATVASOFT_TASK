@@ -1,0 +1,21 @@
+<app-header></app-header>
+<!--for showing routing-->
+<router-outlet></router-outlet>
+
+<!--Login form-->
+<div class="login-box">
+  <form>
+    <div class="mb-3">
+      <label   class="form-label">Username</label>
+      <input type="text" [(ngModel)]="username" name="username" class="form-control" id="username" placeholder="Enter username">
+    </div>
+    <div class="mb-3">
+      <label class="form-label">Password</label>
+      <input type="text" [(ngModel)]="password" name="password"  class="form-control" id="password" placeholder="Enter password">
+    </div>
+    <button type="submit" class="btn btn-primary w-100" (click)="Submit()">Login</button>
+  </form>
+</div>
+
+
+
