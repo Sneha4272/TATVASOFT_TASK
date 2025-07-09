@@ -1,0 +1,24 @@
+D:\day_5\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+D:\day_5\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+D:\day_5\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+D:\day_5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+D:\day_5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\day_5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+D:\day_5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+D:\day_5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+D:\day_5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+D:\day_5\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+D:\day_5\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+D:\day_5\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
+D:\day_5 - Copy\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+D:\day_5 - Copy\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+D:\day_5 - Copy\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+D:\day_5 - Copy\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+D:\day_5 - Copy\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\day_5 - Copy\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+D:\day_5 - Copy\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+D:\day_5 - Copy\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+D:\day_5 - Copy\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+D:\day_5 - Copy\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+D:\day_5 - Copy\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+D:\day_5 - Copy\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll

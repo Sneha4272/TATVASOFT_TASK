@@ -1,0 +1,30 @@
+D:\day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\day_5\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\day_5\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\day_5\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\day_5\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+D:\day_5 - Copy\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\day_5 - Copy\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\day_5 - Copy\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\day_5 - Copy\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\day_5 - Copy\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\day_5 - Copy\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\day_5 - Copy\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\day_5 - Copy\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\day_5 - Copy\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\day_5 - Copy\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\day_5 - Copy\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\day_5 - Copy\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\day_5 - Copy\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\day_5 - Copy\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\day_5 - Copy\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
